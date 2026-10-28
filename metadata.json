@@ -1,0 +1,6 @@
+{
+  "name": "CyberSphere",
+  "description": "Interactive cybersecurity education platform with hands-on labs, structured learning academy, CTF challenges, threat analysis, and progress dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
